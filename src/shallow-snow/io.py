@@ -8,4 +8,4 @@ def save_shallow_snow_map(shallow_snow_array):
 
 def plot_shallow_snow_map():
     pass
-    # visualize shallow snow map in some useful way
+    # visualize shallow snow map in some useful way.
